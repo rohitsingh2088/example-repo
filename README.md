@@ -6,3 +6,4 @@ Trying to learn automatio, basically playwright with typescript
 A new change made coders
 
 Updated on 15 Sept
+updated on 16 sept
